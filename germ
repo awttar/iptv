@@ -1,0 +1,16 @@
+#EXTM3U
+
+#EXTINF:0,Eurosport 1
+http://balkanstream.com/stream/eurosport1/hospa140/adis0234
+#EXTINF:0,Eurosport 2
+http://balkanstream.com/stream/eurosport2/hospa140/adis0234
+#EXTINF:0,Fight Chanell
+http://balkanstream.com/stream/fightchanell/hospa140/adis0234
+#EXTINF:0,Lov i Ribolov
+http://balkanstream.com/stream/loviribolov/hospa140/adis0234
+#EXTINF:0,Sky Bundesliga
+http://balkanstream.com/stream/skybundes/hospa140/adis0234
+#EXTINF:0,Sky Sport 1
+http://balkanstream.com/stream/skysport01/hospa140/adis0234
+#EXTINF:0,Sky Sport 2
+http://balkanstream.com/stream/skysport02/hospa140/adis0234
