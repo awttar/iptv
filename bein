@@ -1,19 +1,148 @@
+
 #EXTM3U
 
-#EXTINF:-1,Beinsportfr1
-rtmp://176.10.250.166:1935/tv/stream3
-
-#EXTINF:-1,
-Beinsportfr2
-
-rtmp://176.10.250.166:1935/tv/stream2
-
-#EXTINF:-1,
-Beinsportfr3
-
+#EXTINF:0,beIN 1 HD
+http://bit.ly/1KfHk7R
+#EXTINF:0,beIN 2HD
+http://bit.ly/1JeE1Ph
+#EXTINF:0,beIN 3 HD
+http://bit.ly/1J1OsPV
+#EXTINF:0,beIN 4HD
+http://bit.ly/1HBU2HC
+#EXTINF:0,beIN 7HD
+http://bit.ly/1J1OfMD
+#EXTINF:0,beIN 8HD
+http://bit.ly/1P94igj
+#EXTINF:0,beIN 9HD
+http://bit.ly/1JVDEbb
+#EXTINF:0,beIN 10HD
+http://bit.ly/1L7TL40
+#EXTINF:0,beIN 11HD
+ http://bit.ly/1hWtX1a
 EXTINF:1,BEIN USA 1
 http://lihattv.toh.info/jhos/beib1.m3u8
 #EXTINF:1,BEIN USA 2
 http://lihattv.toh.info/jhos/beib2.m3u8
 #EXTINF:1,BEIN USA 3
-http://lihattv.toh.info/jhos/behib3.m3u8
+http://lihattv.toh.info/jhos/beib3.m3u8 
+
+#EXTINF:-1,Sky Sports News
+http://5.196.82.222:8000/live/bensportpackage/kIEwGfrvIm/16.ts
+#EXTINF:-1,Racing UK
+http://5.196.82.222:8000/live/bensportpackage/kIEwGfrvIm/23.ts
+#EXTINF:-1,Box Nation
+http://5.196.82.222:8000/live/bensportpackage/kIEwGfrvIm/25.ts
+#EXTINF:-1,Sky Sports F1
+http://5.196.82.222:8000/live/bensportpackage/kIEwGfrvIm/17.ts
+#EXTINF:-1,Sky Sports 5
+http://5.196.82.222:8000/live/bensportpackage/kIEwGfrvIm/15.ts
+#EXTINF:-1,Sky Sports 4
+http://5.196.82.222:8000/live/bensportpackage/kIEwGfrvIm/14.ts
+#EXTINF:-1,Sky Sports 3
+http://5.196.82.222:8000/live/bensportpackage/kIEwGfrvIm/13.ts
+#EXTINF:-1,Sky Sports 2
+http://5.196.82.222:8000/live/bensportpackage/kIEwGfrvIm/12.ts
+#EXTINF:-1,Sky Sports 1
+http://5.196.82.222:8000/live/bensportpackage/kIEwGfrvIm/11.ts
+#EXTINF:-1,CTH Stadium X
+http://5.196.82.222:8000/live/bensportpackage/kIEwGfrvIm/164.ts
+#EXTINF:-1,CTH Stadium 6
+http://5.196.82.222:8000/live/bensportpackage/kIEwGfrvIm/163.ts
+#EXTINF:-1,CTH Stadium 5
+http://5.196.82.222:8000/live/bensportpackage/kIEwGfrvIm/162.ts
+#EXTINF:-1,CTH Stadium 4
+http://5.196.82.222:8000/live/bensportpackage/kIEwGfrvIm/161.ts
+#EXTINF:-1,CTH Stadium 3
+http://5.196.82.222:8000/live/bensportpackage/kIEwGfrvIm/160.ts
+#EXTINF:-1,CTH Stadium 2
+http://5.196.82.222:8000/live/bensportpackage/kIEwGfrvIm/159.ts
+#EXTINF:-1,CTH Stadium 1
+http://5.196.82.222:8000/live/bensportpackage/kIEwGfrvIm/158.ts
+#EXTINF:-1,BT Sport 2
+http://5.196.82.222:8000/live/bensportpackage/kIEwGfrvIm/21.ts
+#EXTINF:-1,BT Sport 1
+http://5.196.82.222:8000/live/bensportpackage/kIEwGfrvIm/20.ts
+#EXTINF:-1,Bein Sports 16
+http://5.196.82.222:8000/live/bensportpackage/kIEwGfrvIm/691.ts
+#EXTINF:-1,Bein Sports 15
+http://5.196.82.222:8000/live/bensportpackage/kIEwGfrvIm/690.ts
+#EXTINF:-1,Bein Sports 14
+http://5.196.82.222:8000/live/bensportpackage/kIEwGfrvIm/689.ts
+#EXTINF:-1,Bein Sports 13
+http://5.196.82.222:8000/live/bensportpackage/kIEwGfrvIm/688.ts
+#EXTINF:-1,Bein Sports 12
+http://5.196.82.222:8000/live/bensportpackage/kIEwGfrvIm/687.ts
+#EXTINF:-1,Bein Sports 11
+http://5.196.82.222:8000/live/bensportpackage/kIEwGfrvIm/686.ts
+#EXTINF:-1,Bein Sports 10
+http://5.196.82.222:8000/live/bensportpackage/kIEwGfrvIm/685.ts
+#EXTINF:-1,Bein Sports 9
+http://5.196.82.222:8000/live/bensportpackage/kIEwGfrvIm/684.ts
+#EXTINF:-1,Bein Sports 8
+http://5.196.82.222:8000/live/bensportpackage/kIEwGfrvIm/683.ts
+#EXTINF:-1,Bein Sports 7
+http://5.196.82.222:8000/live/bensportpackage/kIEwGfrvIm/682.ts
+#EXTINF:-1,Bein Sports 6
+http://5.196.82.222:8000/live/bensportpackage/kIEwGfrvIm/681.ts
+#EXTINF:-1,Bein Sports 5
+http://5.196.82.222:8000/live/bensportpackage/kIEwGfrvIm/680.ts
+#EXTINF:-1,Bein Sports 4
+http://5.196.82.222:8000/live/bensportpackage/kIEwGfrvIm/679.ts
+#EXTINF:-1,Bein Sports 3
+http://5.196.82.222:8000/live/bensportpackage/kIEwGfrvIm/678.ts
+#EXTINF:-1,Bein Sports 2
+http://5.196.82.222:8000/live/bensportpackage/kIEwGfrvIm/677.ts
+#EXTINF:-1,Bein Sports 1
+http://5.196.82.222:8000/live/bensportpackage/kIEwGfrvIm/676.ts
+
+#EXTINF:-1,AR: OSN YAHALA HD
+http://portal.rapidiptv.com:8080/live/trial/3210/5735.ts
+#EXTINF:-1,AR: OSN YAHALA DRAMA HD
+http://portal.rapidiptv.com:8080/live/trial/3210/5737.ts
+#EXTINF:-1,AR: OSN WWE HD
+http://portal.rapidiptv.com:8080/live/trial/3210/5731.ts
+#EXTINF:-1,AR: OSN STAR MOVIES 1 HD
+http://portal.rapidiptv.com:8080/live/trial/3210/5725.ts
+#EXTINF:-1,AR: OSN ON DEMAND 1 HD
+http://portal.rapidiptv.com:8080/live/trial/3210/5742.ts
+#EXTINF:-1,AR: OSN NATIONAL GEOGRAPHIC HD
+http://portal.rapidiptv.com:8080/live/trial/3210/5749.ts
+#EXTINF:-1,AR: OSN NAT GEO WILD HD
+http://portal.rapidiptv.com:8080/live/trial/3210/5752.ts
+#EXTINF:-1,AR: OSN MOVIES PREMIERE HD
+http://portal.rapidiptv.com:8080/live/trial/3210/5727.ts
+#EXTINF:-1,AR: OSN MOVIES HD
+http://portal.rapidiptv.com:8080/live/trial/3210/5721.ts
+#EXTINF:-1,AR: OSN MOVIES First More HD
+http://portal.rapidiptv.com:8080/live/trial/3210/5736.ts
+#EXTINF:-1,AR: OSN MOVIES FESTIVAL HD
+http://portal.rapidiptv.com:8080/live/trial/3210/5728.ts
+#EXTINF:-1,AR: OSN MOVIES DRAMA HD
+http://portal.rapidiptv.com:8080/live/trial/3210/5741.ts
+#EXTINF:-1,AR: OSN MOVIES DRAMA
+http://portal.rapidiptv.com:8080/live/trial/3210/5740.ts
+#EXTINF:-1,AR: OSN MOVIES COMEDY HD
+http://portal.rapidiptv.com:8080/live/trial/3210/5724.ts
+#EXTINF:-1,AR: OSN MOVIES ACTION HD
+http://portal.rapidiptv.com:8080/live/trial/3210/5722.ts
+#EXTINF:-1,AR: OSN Movie kids HD
+http://portal.rapidiptv.com:8080/live/trial/3210/5734.ts
+#EXTINF:-1,AR: OSN MBC   DRAMA
+http://portal.rapidiptv.com:8080/live/trial/3210/5719.ts
+#EXTINF:-1,AR: OSN DISCOVERY SCIENCE HD
+http://portal.rapidiptv.com:8080/live/trial/3210/5748.ts
+#EXTINF:-1,AR: OSN DISCOVERY ID
+http://portal.rapidiptv.com:8080/live/trial/3210/5746.ts
+#EXTINF:-1,AR: OSN DISCOVERY HD
+http://portal.rapidiptv.com:8080/live/trial/3210/5747.ts
+#EXTINF:-1,AR: OSN ANIMAL PLANET HD
+http://portal.rapidiptv.com:8080/live/trial/3210/5751.ts
+#EXTINF:-1,AR: OSN ANIMAL PLANET
+http://portal.rapidiptv.com:8080/live/trial/3210/5750.ts
+#EXTINF:-1,AR: OSN ALYOUM
+http://portal.rapidiptv.com:8080/live/trial/3210/5738.ts
+
+
+
+
+
