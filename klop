@@ -1,8 +1,22 @@
 #EXTM3U
+#EXTM3U
 
 
+#EXTINF:-0,Telecinco
+http://mdsios1-lh.akamaihd.net/i/mitele/esmediaset_11@168471/index_0_av-p.m3u8
+#EXTINF:-0,LA 1 HD(SPAIN)
+http://hlslive.rtve.es/LA1_LV3_IPH/LA1_LV3_IPH.m3u8 
+#EXTINF:-0,LA 2 HD (SPAIN)
+http://hlslive.rtve.es/LA2_LV3_IPH/LA2_LV3_IPH.m3u8
+#EXTINF:-0,TELECINCO HD (SPAIN)
+http://mdsios2-lh.akamaihd.net/i/mitele/esmediaset_21@168473/index_0_av-p.m3u8
 
-
+#EXTINF:-0,LA SEXTA HD (SPAIN)
+http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel02/la_sexta_hd_1548K_1280x720_main.m3u8 
+#EXTINF:-0,24 HRS HD(SPAIN)
+http://hlslive.rtve.es/24H_LV3_IPH/24H_LV3_IPH.m3u8 
+#EXTINF:-0,TVE(SPAIN)
+http://hlslive.rtve.es/24H_LV3_IPH/24H_LV3_IPH.m3u8 
 #EXTINF:-1,ANTENA 3
 http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel01/antena_3_hd_1548K_1280x720_main.m3u8
 #EXTINF:-1,LA SEXTA
