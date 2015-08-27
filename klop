@@ -1,8 +1,146 @@
-#EXTM3U 
+#EXTM3U
 
-#EXTINF:0,SportKlub 1 HR
-http://balkanstream.com/stream/sportklub1hr/hospa140/adis0234
-#EXTINF:0,SportKlub 2 HR
-http://balkanstream.com/stream/sportklub2hr/hospa140/adis0234
-#EXTINF:0,SportKlub 3 HR
-http://balkanstream.com/stream/sportklub3hr/hospa140/adis0234
+#EXTINF:-1,Telecinco HD(Sin geolocalizacion)
+rtmp://$OPT:rtmp-raw=rtmp://5.63.149.180/live playpath=tele5ptc?id=13633 swfUrl=http://www.ezcast.tv/static/scripts/eplayer.swf live=1 pageUrl=http://www.ezcast.tv/ Conn=S:OK --live
+#EXTINF:-1,Telecinco HD(opcion 2)(Sin geolocalizacion)
+rtmp://$OPT:rtmp-raw=rtmp://146.185.25.162/live playpath=tele5ptc?id=13633 swfUrl=http://www.ezcast.tv/static/scripts/eplayer.swf live=1 pageUrl=http://www.ezcast.tv/ Conn=S:OK --live
+#EXTINF:-1,ANTENA 3
+http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel01/antena_3_hd_1548K_1280x720_main.m3u8
+#EXTINF:-1,LA SEXTA
+http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel02/la_sexta_hd_1548K_1280x720_main.m3u8
+#EXTINF:-1,MEGA
+http://a3live-lh.akamaihd.net/i/mega/megageo_1@328914/master.m3u8
+#EXTINF:-1,CANAL SUR
+http://iphone-andaluciatelevision.rtva.stream.flumotion.com/rtva/andaluciatelevision-iphone-multi/main.m3u8
+#EXTINF:-1,13 TV
+http://streaming.enetres.net:80/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/playlist.m3u8
+#EXTINF:-1,DISCOVERY
+http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,GALIZA TV
+http://media3.crtvg.es/live/tvge/vcx7.m3u8
+#EXTINF:-1,RTP ASTURIAS
+http://iphone.rtpa.stream.flumotion.com/rtpa/tv-iphone/main.m3u8
+#EXTINF:-1,EXTREMADURA TV
+http://corporacionextremena-live.hls.adaptive.level3.net/hls-live/corporacionextremena-channel02/_definst_/live.m3u8
+#EXTINF:-1,ANDORRA TV
+http://194.158.80.31:443/live/rtva/playlist.m3u8
+#EXTINF:-1,NOVA
+http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel11/eventos_6_700K_640x368_baseline.m3u8
+#EXTINF:-1,CASTILLA LA MANCHA TV
+http://live-hls.rtvcm.stream.flumotion.com/rtvcm/hls-multi/main.m3u8
+#EXTINF:-1,TV MELILLA
+rtmp://stream.tvmelilla.es:1935/tvmelilla playpath=live swfUrl=http://tvmelilla.es/jwplayer/player.swf live=1 pageUrl=http://tvmelilla.es/directo.html
+#EXTINF:-1,TV CANARIAS
+rtmp://streamrtvcdrb.mad.idec.net/rtvcnet/rtvcnet.drb.stream swfUrl=http://www2.rtvc.es/swf/flowplayer.rtmp-3.1.3.swf pageUrl=http://www2.rtvc.es/television/Directo.aspx
+#EXTINF:-1,RT SPAIN
+http://odna.octoshape.net/f3f5m2v4/cds/ch2_720p/SAT_TOTAL.m3u8
+#EXTINF:-1,TV MIAMI LIFE ESPAÑA
+http://k4.usastreams.com:1935/miamitvlife/miamitvlife/chunklist_w875058297.m3u8
+#EXTINF:-1,ULTRACINE
+http://vemoxhlslive-i.akamaihd.net/hls/live/219940/vemoxchannel1/iOS/vemoxchannel1@219940/stream2/streamPlaylist.m3u8
+#EXTINF:-1,TRAVEL TV
+rtmp://87.106.219.140/live/myStream_2
+#EXTINF:-1,RTP 1
+http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtp1.smil/playlist.m3u8
+#EXTINF:-1,RTP 2
+http://noscdn1.connectedviews.com:1935/live/smil:rtp2.smil/playlist.m3u8
+#EXTINF:-1,RTP INFORMAÇÃO
+http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpn.smil/playlist.m3u8
+#EXTINF:-1,RTP INTERNACIONAL
+http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpi.smil/playlist.m3u8
+#EXTINF:-1,RTP ÁFRICA
+http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpafrica.smil/playlist.m3u8
+#EXTINF:-1,RTP MEMÓRIA
+http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpmem.smil/playlist.m3u8
+#EXTINF:-1,RTP MADEIRA
+http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpmadeira.smil/playlist.m3u8
+#EXTINF:-1 tvg-id=”RTPAcores.pt” tvg-logo=”rtp_açores.png”,RTP ACORES
+http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpacores.smil/playlist.m3u8
+#EXTINF:-1,SIC
+http://213.13.26.7:1936/live/_definst_/sic/magellan.m3u8
+#EXTINF:-1,SIC NOTÍCIAS
+http://213.13.26.7:1936/live/_definst_/sicnoticias/magellan.m3u8
+#EXTINF:-1 group-title=INSPIRATIONLINKS,SIC RADICAL (Clicar Varias Vezes)
+http://84.74.247.12:8001/1:0:1:516:67:53:CE40000:0:0:0:
+#EXTINF:-1,TVI
+http://88.157.194.246/live/ramdisk/ztvi/HLS/ztvi.m3u8
+#EXTINF:-1,TVI 24
+http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/livestream.m3u8
+#EXTINF:-1,TPA
+http://myafricanmega3.tulix.tv:1935/map-tpaint/map-tpaint.stream/playlist.m3u8
+#EXTINF:-1,ECONÓMICO TV
+http://213.13.26.7:1936/live/etv_direto/livestream.m3u8
+#EXTINF:-1 tvg-id=”rtpmemoria.pt”tvg-logo=”RTP MEMORIA.png”,[COLOR ] RTP MEMÓRIA [/COLOR]
+http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpmem.smil/playlist.m3u8
+#EXTINF:0,Univision
+http://93.174.95.125:1935/edge/_definst_/obzq3ltrjoaxglf/manifest.m3u8?wowzasessionid=1419908048
+#EXTINF:-1,Caracol Colombia
+http://caracoltvlivehds-lh.akamaihd.net/i/emision_1@126280/index_300_av-b.m3u8#megaIPTVArgentina
+#EXTINF:-1,Mediterraneo TV España
+http://streaming.enetres.net/489DDF7FE98241D19D8970314BC9D3EF021/smil:live.smil/master.m3u8#MegaIPTVArgentina
+#EXTINF:-1,TVC LATINO
+rtmp://76.79.146.124/live/TVCSB
+#EXTINF:-1,Azteca Noticias
+http://urtmpkal-f.akamaihd.net/i/077zoqxzy_1@130091/index_3_av-p.m3u8
+#EXTINF:-1,Telpin Canal 2 HD 720 Pinamar Argentina
+http://201.219.100.30:1935/telpintv/ttv.stream_720p/playlist.m3u8
+#EXTINF:-1,TVE 24h
+http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8 ?
+#EXTINF:-1,Kiss TV
+rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live ?
+#EXTINF:-1,TV Mas
+http://50.7.98.234:1935/rtv/videortv/playlist.m3u8
+#EXTINF:-1,TVX Canal 23 El Salvador
+http://panel.elsalvadordigital.com:1935/canal23/canal23/playlist.m3u8
+#EXTINF:-1,Canal 14 Mexico
+rtmp://159.16.243.10/live/canal4/canal4
+#EXTINF:-1,Extremadura Televisión
+http://corporacionextremena-live.hls.adaptive.level3.net/hls-live/corporacionextremena-channel02/_definst_/live.m3u8 ?
+#EXTINF:-1,ESNE Argentina
+http://198.154.228.82:1935/live/esnetv/playlist.m3u8#MegaIPTVArgentina
+#EXTINF:-1,XPERTV Canal 33
+http://k3.usastreams.com:1935/tv33/tv33/playlist.m3u8
+#EXTINF:-1,Capital 21
+http://187.237.253.94:8134/hls-live/livepkgr/_definst_/liveevent.m3u8 ?
+#EXTINF:-1,SMO TV
+http://199.217.118.90:1935/smotv/stream/playlist.m3u8
+#EXTINF:-1,TiVa Puerto Rico
+http://live-h1.frontlayer.net/fl729845/live/live.m3u8
+#EXTINF:-1,CDN
+http://108.168.206.90:1935/cdn/cdn/playlist.m3u8
+#EXTINF:-1,Canal 7 Ecuador
+http://ecuadortv_livehd-lh.akamaihd.net/i/0n0xzqt3o_1@323283/master.m3u8#alxvill
+#EXTINF:-1,Canal 6 Costa Rica
+http://k3.usastreams.com:1935/cana6/cana6/playlist.m3u8
+#EXTINF:-1,Canal 9 Costa Rica
+http://k3.usastreams.com:1935/canal9/canal9/playlist.m3u8
+#EXTINF:-1,Venezolana TV
+http://cast.streamingconnect.tv:1935/vtvweb2/vtvweb2/playlist.m3u8
+#EXTINF:-1,TVO Canal 23
+http://xtvocanal23x.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:-1,Canal UNO Colombia
+http://cdns840stu1010.multistream.net/rtvcCanalUNOlive/amlst:live/master.m3u8#megaIPTVArgentina
+#EXTINF:-1,Canal Tr3ce
+http://cdns840stu1010.multistream.net/canaltr3celive/live-500/PAZ.m3u8
+#EXTINF:-1,Canal U
+http://xcanalutvx.api.channel.livestream.com/3.0/playlist.m3u8#megaIPTVArgentina
+#EXTINF:-1,Canal 12 Valledupar
+http://panelhdstream.com:1935/8022/8022/playlist.m3u8
+#EXTINF:-1,Canal 4 Arequipa
+http://xvivatvcanal4arequipax.api.channel.livestream.com/3.0/playlist.m3u8#megaIPTVArgentina
+#EXTINF:-1,QuintaVision Viña del Mar
+http://iphone-streaming.ustream.tv/uhls/2950729/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,Canal 5 Linares
+rtmp://v1.streaminglatinoamerica.com/canal5/canal5
+#EXTINF:-1,Arica TV
+http://wow2.cl.digitalproserver.com/aricatv/aricatvvivo/aricatv.smil/chunklist_w725671068_b848000.m3u8
+#EXTINF:-1,Canal Once Punta del Este
+http://xcanaloncepuntadelestex.api.channel.livestream.com/3.0/playlist.m3u8#megaIPTVArgentina
+#EXTINF:-1,CDN Sports
+http://108.168.206.90:1935/cdnsm/cdnsm/playlist.m3u8
+#EXTINF:-1,C5N Argentina
+http://c5n.stweb.tv:1935/c5n/live/playlist.m3u8
+#EXTINF:-1,TN Argentina
+rtsp://stream.tn.com.ar/live/tnhd1
+#EXTINF:-1,HCH Honduras
+http://4.31.30.140:1935/live/hchtvdigital/playlist.m3u8?wowzasessionid=1792561590
