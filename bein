@@ -1,7 +1,7 @@
 
 #EXTM3U
 
-#EXTINF:,Idman
+#EXTINF:-0,Idman
 Http://149.255.152.70:80/idman/index.m3u8
 #EXTINF:0,beIN 2HD
 http://bit.ly/1JeE1Ph
