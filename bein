@@ -1,6 +1,9 @@
 
 #EXTM3U
 
+
+#EXTINF:0,marocVSsaotomi
+http://178.33.88.129:888/udp/239.102.0.21:1234
 #EXTINF:0,Idman
 http://149.255.152.70:80/idman/index.m3u8
 #EXTINF:0,beIN 2HD
